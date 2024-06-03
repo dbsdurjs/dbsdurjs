@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=800080&height=300&section=header&text=YG%20&fontSize=90&fontColor=FFFFFF)
+
+<img src="https://img.shields.io/badge/Python-A020F0?style=flat-square&logo=Python&logoColor=white"/>
